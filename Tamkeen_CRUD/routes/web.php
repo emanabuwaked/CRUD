@@ -37,6 +37,7 @@ Route::get("employeesModel/search-paging-advanced",[EmployeesModelController::cl
 Route::resource('employeesModel', EmployeesModelController::class);
 Route::get('employeesModel/{id}/delete', [ EmployeesModelController::class,"destroy"])->name("employeesModel.delete");  
 });
+////////////
 
 
 
