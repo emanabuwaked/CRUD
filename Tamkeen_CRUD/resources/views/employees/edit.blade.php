@@ -45,18 +45,6 @@
         <div class="row">
             <legend class="col-form-label col-sm-2 pt-0">Gender</legend>
             <div class="col-sm-10">
-                <!-- <div class="form-check">
-                    <input class="form-check-input" type="radio" name="female" id="female" value="option1" checked>
-                    <label class="form-check-label" for="female">
-                        Female
-                    </label>
-                </div>
-                <div class="form-check">
-                    <input class="form-check-input" type="radio" name="male" id="male" value="option2">
-                    <label class="form-check-label" for="male">
-                        Male
-                    </label>
-                </div> -->
                 <div class="row">
                     <div class="col-md-6 mb-3">
                         <label>
