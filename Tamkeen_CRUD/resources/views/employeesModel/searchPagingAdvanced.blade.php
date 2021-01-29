@@ -108,4 +108,6 @@
 @else
 <div class='alert alert-info'><b>Sorry!</b> there is no results to your search</div>
 @endif
+
+
 @endsection
